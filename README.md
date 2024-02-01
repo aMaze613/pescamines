@@ -1,1 +1,1 @@
-DAM2 M8 - Exercici del Pescamines - Mario Martín Carmona
+DAM2 M8 - Minesweeper game exercise - Mario Martín Carmona
